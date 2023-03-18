@@ -1,0 +1,15 @@
+.box{
+    display: flex;
+}
+.box1{
+    background-color: grey;
+    margin:50px;
+    padding: 30px;
+}
+.header{
+    background-color: red;
+    width: 100px;
+}
+.navigation{
+display: flex;
+}
